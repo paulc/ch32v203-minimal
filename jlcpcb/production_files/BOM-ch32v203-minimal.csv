@@ -1,0 +1,13 @@
+Comment,Designator,Footprint,LCSC,Quantity
+100nF,"C3,C4,C5,C9",C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C110255,4
+10K,R1,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,C2907370,1
+10uF,C1,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C9807,1
+1uF,C6,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C377070,1
+20pF,"C7,C8",C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C107193,2
+22uF,C2,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,C5448976,1
+470R,R2,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,C2907329,1
+8MHz,Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,C2242,1
+AMS1117-3.3,U1,SOT-223-3_TabPin2,C6186,1
+CH32V203K8T6,U2,LQFP-32_7x7mm_P0.8mm,C5372188,1
+LED,D1,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,C965815,1
+SW_Push,"SW1,SW2",3_4_2 SMD Micro Touch Switch Button,C843659,2
