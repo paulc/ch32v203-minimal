@@ -5076,6 +5076,16 @@
 		)
 		(uuid "ff0b5eaf-597d-4d36-a067-18f339e16eea")
 	)
+	(label "NRST"
+		(at 92.71 88.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0901173e-7486-46ca-89c7-7cf98af85e8b")
+	)
 	(label "D+"
 		(at 52.07 100.33 0)
 		(effects
@@ -5145,6 +5155,16 @@
 			(justify left bottom)
 		)
 		(uuid "b87178c4-79f8-41b6-9e0f-44480e33be36")
+	)
+	(label "BOOT0"
+		(at 210.82 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f7b72e65-5858-4590-a908-d7d89cd2afcb")
 	)
 	(global_label "PB6"
 		(shape input)
