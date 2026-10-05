@@ -1,6 +1,6 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-C1,10uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,139.2,-89.15,-90.0,top
-C2,22uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,139.225,-94.35,90.0,top
+C1,1uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,140.175,-90.485,-90.0,top
+C2,4.7uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,143.731,-95.438,180.0,top
 C3,100nF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,157.4875,-92.11,180.0,top
 C4,100nF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,163.25,-106.16,180.0,top
 C5,100nF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,169.55,-102.86,-90.0,top
@@ -14,7 +14,7 @@ H1,MountingHole_Pad,MountingHole_2.2mm_M2_DIN965_Pad,133.749664,-64.759925,0.0,t
 H2,MountingHole_Pad,MountingHole_2.2mm_M2_DIN965_Pad,178.749664,-64.759925,0.0,top
 H3,MountingHole_Pad,MountingHole_2.2mm_M2_DIN965_Pad,133.749664,-109.759925,0.0,top
 H4,MountingHole_Pad,MountingHole_2.2mm_M2_DIN965_Pad,178.749664,-109.759925,0.0,top
-H5,MountingHole_Pad,MountingHole_2.2mm_M2_DIN965_Pad,149.75,-84.01,0.0,top
+H5,MountingHole_Pad,MountingHole_2.2mm_M2_DIN965_Pad,149.749664,-88.759925,0.0,top
 J1,Conn_01x08,PinHeader_1x08_P2.54mm_Vertical,134.35,-96.52,0.0,top
 J2,Conn_01x02_Pin,PinHeader_1x02_P2.54mm_Vertical,142.72,-84.536993,-90.0,top
 J3,Conn_01x04,PinHeader_1x04_P2.54mm_Vertical,146.59,-109.15,90.0,top
@@ -42,6 +42,6 @@ TP6,TestPoint,Proto-1x4,144.725,-70.165,90.0,top
 TP7,TestPoint,Proto-1x4,147.205,-70.165,90.0,top
 TP8,TestPoint,Proto-1x4,149.805,-70.165,90.0,top
 TP9,TestPoint,Proto-1x4,152.345,-70.165,90.0,top
-U1,AMS1117-3.3,SOT-223-3_TabPin2,145.65,-90.7,90.0,top
 U2,CH32V203K8T6,LQFP-32_7x7mm_P0.8mm,162.73207,-98.637728,45.0,top
+U3,MCP1700x-330xxMB,SOT-89-3,143.985,-90.785,270.0,top
 Y1,8MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,169.3,-108.06,0.0,top
