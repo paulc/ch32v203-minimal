@@ -1,27 +1,36 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-C1,1uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,140.175,-90.485,-90.0,top
-C2,4.7uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,143.731,-95.438,180.0,top
+C1,10uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,134.05,-84.61,180.0,top
+C10,4.7uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,147.35,-88.31,90.0,top
+C11,4.7uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,140.55,-90.81,180.0,top
+C12,100nF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,174.05,-96.51,0.0,top
+C2,4.7uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,144.7875,-84.61,0.0,top
 C3,100nF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,157.4875,-92.11,180.0,top
 C4,100nF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,163.25,-106.16,180.0,top
 C5,100nF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,169.55,-102.86,-90.0,top
 C6,1uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,172.25,-102.86,-90.0,top
-C7,20pF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,173.8,-108.06,-90.0,top
-C8,20pF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,176.45,-104.876347,-90.0,top
+C7,20pF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,172.95,-108.11,-90.0,top
+C8,20pF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,175.35,-108.11,-90.0,top
 C9,100nF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,158.2,-106.16,180.0,top
 D1,LED,LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,140.75,-98.45,0.0,top
-D2,SS14,D_SMA,135.05,-83.904324,180.0,top
+D3,B5819W SL,D_SOD-123,140.55,-93.71,180.0,top
 H1,MountingHole_Pad,MountingHole_2.2mm_M2_DIN965_Pad,133.749664,-64.759925,0.0,top
 H2,MountingHole_Pad,MountingHole_2.2mm_M2_DIN965_Pad,178.749664,-64.759925,0.0,top
 H3,MountingHole_Pad,MountingHole_2.2mm_M2_DIN965_Pad,133.749664,-109.759925,0.0,top
 H4,MountingHole_Pad,MountingHole_2.2mm_M2_DIN965_Pad,178.749664,-109.759925,0.0,top
-H5,MountingHole_Pad,MountingHole_2.2mm_M2_DIN965_Pad,149.749664,-88.759925,0.0,top
+H5,MountingHole_Pad,MountingHole_2.2mm_M2_DIN965_Pad,150.75,-86.11,0.0,top
 J1,Conn_01x08,PinHeader_1x08_P2.54mm_Vertical,134.35,-96.52,0.0,top
-J2,Conn_01x02_Pin,PinHeader_1x02_P2.54mm_Vertical,142.72,-84.536993,-90.0,top
+J2,Conn_01x02_Pin,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,177.1,-101.81,-90.0,top
 J3,Conn_01x04,PinHeader_1x04_P2.54mm_Vertical,146.59,-109.15,90.0,top
 J4,Conn_01x04,PinHeader_1x04_P2.54mm_Vertical,159.285,-109.1,90.0,top
 J5,Conn_02x10_Odd_Even,PinHeader_2x10_P2.54mm_Vertical,166.09,-86.64,90.0,top
+Q1,AO3401A,SOT-23,145.4875,-92.76,270.0,top
+Q2,AO3401A,SOT-23,178.55,-95.71,180.0,top
 R1,10K,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,152.6,-98.4,0.0,top
 R2,470R,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,146.95,-98.45,180.0,top
+R3,4K7,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,146.95,-95.81,180.0,top
+R4,10K,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,144.55,-88.31,90.0,top
+R5,1M,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,174.05,-91.71,180.0,top
+R6,1M,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,174.05,-94.11,0.0,top
 SW1,SW_Push,3_4_2 SMD Micro Touch Switch Button,151.4,-102.6,0.0,top
 SW2,SW_Push,3_4_2 SMD Micro Touch Switch Button,144.45,-102.6,0.0,top
 TP1,TestPoint,Proto-1x16,156.155,-76.515,0.0,top
@@ -34,7 +43,9 @@ TP15,TestPoint,Proto-1x4,167.585,-70.165,90.0,top
 TP16,TestPoint,Proto-1x4,170.125,-70.165,90.0,top
 TP17,TestPoint,Proto-1x4,172.665,-70.165,90.0,top
 TP18,TestPoint,Proto-1x4,175.205,-70.165,90.0,top
+TP19,Vbat/2,TP-PlatedHole,178.75,-91.71,0.0,top
 TP2,TestPoint,Proto-1x16,156.155,-79.055,0.0,top
+TP20,Chg Stat,TP-PlatedHole,138.95,-96.01,0.0,top
 TP3,TestPoint,Proto-1x4,137.105,-70.165,90.0,top
 TP4,TestPoint,Proto-1x4,139.645,-70.165,90.0,top
 TP5,TestPoint,Proto-1x4,142.185,-70.165,90.0,top
@@ -43,5 +54,6 @@ TP7,TestPoint,Proto-1x4,147.205,-70.165,90.0,top
 TP8,TestPoint,Proto-1x4,149.805,-70.165,90.0,top
 TP9,TestPoint,Proto-1x4,152.345,-70.165,90.0,top
 U2,CH32V203K8T6,LQFP-32_7x7mm_P0.8mm,162.73207,-98.637728,45.0,top
-U3,MCP1700x-330xxMB,SOT-89-3,143.985,-90.785,270.0,top
-Y1,8MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,169.3,-108.06,0.0,top
+U3,MCP1700x-330xxMB,SOT-89-3,139.3875,-86.01,270.0,top
+U4,MCP73831-2-OT,SOT-23-5,150.65,-92.21,180.0,top
+Y1,8MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,168.7,-108.06,0.0,top

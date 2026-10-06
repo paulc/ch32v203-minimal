@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.8,
-          "width": 1.325
+          "height": 1.75,
+          "width": 1.3
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -276,72 +276,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      [
-        "isolated_pin_label|2260600|558800|93e7c23a-ac24-44ab-919f-2fb16e5d92e8|00000000-0000-0000-0000-000000000000|/c4c3c12b-dd2c-4da1-bb89-311f762bf82a||",
-        "Proto Track"
-      ],
-      [
-        "isolated_pin_label|2260600|673100|fb5b2468-4a76-4a82-a6bf-376af4c567a5|00000000-0000-0000-0000-000000000000|/c4c3c12b-dd2c-4da1-bb89-311f762bf82a||",
-        "Proto Track"
-      ],
-      [
-        "isolated_pin_label|2311400|558800|69d1c1ac-7295-4531-8c25-5d6f0e9a636b|00000000-0000-0000-0000-000000000000|/c4c3c12b-dd2c-4da1-bb89-311f762bf82a||",
-        "Proto Track"
-      ],
-      [
-        "isolated_pin_label|2311400|673100|c6f7c7ea-a8a7-45ad-b48c-6f37be985132|00000000-0000-0000-0000-000000000000|/c4c3c12b-dd2c-4da1-bb89-311f762bf82a||",
-        "Proto Track"
-      ],
-      [
-        "isolated_pin_label|2362200|558800|5dc403f4-a40c-42d4-8d26-0b162441014a|00000000-0000-0000-0000-000000000000|/c4c3c12b-dd2c-4da1-bb89-311f762bf82a||",
-        "Proto Track"
-      ],
-      [
-        "isolated_pin_label|2362200|673100|32580de4-60d8-4952-9b4c-076f84ddab77|00000000-0000-0000-0000-000000000000|/c4c3c12b-dd2c-4da1-bb89-311f762bf82a||",
-        "Proto Track"
-      ],
-      [
-        "isolated_pin_label|2413000|558800|22a491a6-4e95-4e73-9b43-767a7f16226d|00000000-0000-0000-0000-000000000000|/c4c3c12b-dd2c-4da1-bb89-311f762bf82a||",
-        "Proto Track"
-      ],
-      [
-        "isolated_pin_label|2413000|673100|5fecd66d-362b-4288-bf2a-48d4621353e4|00000000-0000-0000-0000-000000000000|/c4c3c12b-dd2c-4da1-bb89-311f762bf82a||",
-        "Proto Track"
-      ],
-      [
-        "isolated_pin_label|2463800|558800|9fc0e989-340f-4c8d-8b05-48896b411d3f|00000000-0000-0000-0000-000000000000|/c4c3c12b-dd2c-4da1-bb89-311f762bf82a||",
-        "Proto Track"
-      ],
-      [
-        "isolated_pin_label|2463800|673100|d2c6cb03-7cf5-4329-bb2a-a2294546497e|00000000-0000-0000-0000-000000000000|/c4c3c12b-dd2c-4da1-bb89-311f762bf82a||",
-        "Proto Track"
-      ],
-      [
-        "isolated_pin_label|2514600|558800|27736885-92c8-49cb-8639-6fd5d8002440|00000000-0000-0000-0000-000000000000|/c4c3c12b-dd2c-4da1-bb89-311f762bf82a||",
-        "Proto Track"
-      ],
-      [
-        "isolated_pin_label|2514600|673100|993f3362-02d5-4acc-a504-b1363f482e0d|00000000-0000-0000-0000-000000000000|/c4c3c12b-dd2c-4da1-bb89-311f762bf82a||",
-        "Proto Track"
-      ],
-      [
-        "isolated_pin_label|2565400|558800|75d3ee63-572c-46f2-af72-f94fc5e03dc3|00000000-0000-0000-0000-000000000000|/c4c3c12b-dd2c-4da1-bb89-311f762bf82a||",
-        "Proto Track"
-      ],
-      [
-        "isolated_pin_label|2565400|673100|ad69c2dc-ef7b-40ff-8910-bcb2583979e2|00000000-0000-0000-0000-000000000000|/c4c3c12b-dd2c-4da1-bb89-311f762bf82a||",
-        "Proto Track"
-      ],
-      [
-        "isolated_pin_label|2616200|558800|5f8f366a-7295-401d-9667-ecca1cdc0938|00000000-0000-0000-0000-000000000000|/c4c3c12b-dd2c-4da1-bb89-311f762bf82a||",
-        "Proto Track"
-      ],
-      [
-        "isolated_pin_label|2616200|673100|545498a2-9e59-4b01-8672-261e62631f6b|00000000-0000-0000-0000-000000000000|/c4c3c12b-dd2c-4da1-bb89-311f762bf82a||",
-        "Proto Track"
-      ]
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -532,7 +467,7 @@
       "four_way_junction": "ignore",
       "ground_pin_not_ground": "warning",
       "hier_label_mismatch": "error",
-      "isolated_pin_label": "warning",
+      "isolated_pin_label": "ignore",
       "label_dangling": "error",
       "label_multiple_wires": "warning",
       "lib_symbol_issues": "warning",
@@ -759,7 +694,7 @@
         "uuid": "c4c3c12b-dd2c-4da1-bb89-311f762bf82a"
       }
     ],
-    "used_designators": "",
+    "used_designators": "D3",
     "variants": []
   },
   "sheets": [
