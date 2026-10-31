@@ -519,7 +519,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" thru_hole circle
 			(at 0 0 90)
@@ -630,7 +630,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C2827254"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1111,7 +1111,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1547"
+		(property "LCSC" "C47118551"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1287,7 +1287,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" thru_hole circle
 			(at 0 0 90)
@@ -1401,7 +1401,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" thru_hole circle
 			(at 0 0 90)
@@ -1514,6 +1514,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.7 -0.7)
@@ -1843,7 +1844,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" thru_hole circle
 			(at 0 0 90)
@@ -2518,7 +2519,7 @@
 				(pins "1" "2" "3" "4")
 			)
 		)
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -2775,7 +2776,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" thru_hole circle
 			(at 0 0 90)
@@ -3032,7 +3033,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C1547"
+		(property "LCSC" "C47118551"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3208,7 +3209,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" thru_hole circle
 			(at 0 0 90)
@@ -3588,7 +3589,7 @@
 				(pins "1" "2" "3" "4")
 			)
 		)
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -3845,7 +3846,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" thru_hole circle
 			(at 0 0 90)
@@ -4546,6 +4547,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -0.7 -0.7)
@@ -4711,7 +4713,7 @@
 				)
 			)
 		)
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 3.92 -1.38)
@@ -6438,7 +6440,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" thru_hole circle
 			(at 0 0 90)
@@ -6712,7 +6714,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" thru_hole circle
 			(at 0 0 90)
@@ -6826,7 +6828,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" thru_hole circle
 			(at 0 0 90)
@@ -6940,7 +6942,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" thru_hole circle
 			(at 0 0 90)
@@ -7054,7 +7056,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" thru_hole circle
 			(at 0 0 90)
@@ -7168,7 +7170,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" thru_hole circle
 			(at 0 0 90)
@@ -7282,7 +7284,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" thru_hole circle
 			(at 0 0 90)
@@ -7779,7 +7781,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" thru_hole circle
 			(at 0 0)
@@ -8343,7 +8345,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr allow_soldermask_bridges)
+		(attr exclude_from_bom allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
 			(start -1.225 -0.75)
@@ -9577,6 +9579,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C131337"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "eceae381-fb42-41d9-8c6a-855011910a75")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/fd8f4832-0351-4247-99eb-f71eb286d1f2")
 		(sheetname "/")
@@ -9587,7 +9601,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.45 2.3)
@@ -10368,7 +10382,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" thru_hole circle
 			(at 0 0 90)
@@ -11025,7 +11039,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_text user "${REFERENCE}"
 			(at 0 2.5 0)
@@ -11747,7 +11761,7 @@
 				(pins "1")
 			)
 		)
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(pad "1" thru_hole circle
 			(at 0 0 90)
@@ -12322,7 +12336,7 @@
 			)
 		)
 		(zone_connect 1)
-		(attr allow_soldermask_bridges)
+		(attr exclude_from_bom allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
 			(start -1.225 -0.75)
