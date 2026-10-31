@@ -40,8 +40,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.75,
-          "width": 1.3
+          "height": 1.5,
+          "width": 0.5
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -625,7 +625,7 @@
           "group_by": false,
           "label": "LCSC",
           "name": "LCSC",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
@@ -694,7 +694,7 @@
         "uuid": "c4c3c12b-dd2c-4da1-bb89-311f762bf82a"
       }
     ],
-    "used_designators": "U1,D3",
+    "used_designators": "JP1-2",
     "variants": []
   },
   "sheets": [
